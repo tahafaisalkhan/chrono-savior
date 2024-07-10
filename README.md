@@ -11,7 +11,7 @@
 - [Usage](#usage)
 - [Controls](#controls)
 - [Menu Flowchart](#menu-flowchart)
-- [Contact](#contact)
+- [Screenshots](#screenshots)
 
 ## Installation
 To run "Chrono Savior" on your local machine, follow these steps:
